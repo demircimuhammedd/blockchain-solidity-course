@@ -5,8 +5,6 @@
 
 Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
 
-# Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ
-
 All code references have both a javascript and a typescript edition.
 
 Recommended Testnet: Sepolia
