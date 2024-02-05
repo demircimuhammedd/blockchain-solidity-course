@@ -1,13 +1,7 @@
 
 # Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
 
-<br/>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
-<img src="./img/blockchain1.png" width="500" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial">
-</a>
-</p>
-<br/>
+
 
 Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
 
@@ -1638,55 +1632,4 @@ Special thanks to [Matt Durkin](https://twitter.com/mdurkin92) for help with thi
     -   [OpenZeppelin](https://openzeppelin.com/)
     -   [SigmaPrime](https://sigmaprime.io/)
     -   [Trail of Bits](https://www.trailofbits.com/)
-
-# Congratulations
-
-🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 Completed The Course! 🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊🎊 
-
-## Where do I go now?
-
-### Learning More
-
--   [CryptoZombies](https://cryptozombies.io/)
--   [Patrick Collins](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
--   [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
--   [ChainShot](https://www.chainshot.com/courses)
--   [Cami Ramos Garzon](https://twitter.com/camiinthisthang)
--   [Albert Hu](https://twitter.com/thatguyintech)
--   [Ivan Liljeqvist](https://twitter.com/IvanOnTech)
--   [Ally Haire](https://twitter.com/DeveloperAlly)
--   [Stephen Fluin](https://twitter.com/stephenfluin)
--   [Eat the Blocks](https://www.youtube.com/channel/UCZM8XQjNOyG2ElPpEUtNasA)
--   [Austin Griffith](https://www.youtube.com/channel/UC_HI2i2peo1A-STdG22GFsA)
--   [Nader Dabit](https://www.youtube.com/user/boyindasouth)
--   [Ethereum.org](https://ethereum.org/en/)
-
-### Community
-
--   [Twitter](https://twitter.com/PatrickAlphaC)
--   [Hardhat Discord](https://hardhat.org/discord)
--   [Ethereum Python Community Discord](https://discord.gg/9zk7snTfWe)
--   [Chainlink Discord](https://discord.gg/2YHSAey)
--   [Ethereum Discord](https://ethereum.org/en/)
--   [Reddit ethdev](https://www.reddit.com/r/ethdev/)
-
-### Hackathons
-
--   [CL Hackathon](https://chain.link/hackathon)
--   [ETHGlobal](https://ethglobal.com/)
--   [ETHIndia](https://ethindia.co/)
-
-Be sure to check out project grant programs!
-
-And make today an amazing day!
-
-# Thank you
-
-Thanks to everyone who is taking, participating in, and working on this course. It's been a passion project and a data dump of everything I've learnt in the web3 space to get you up to speed quickly. Also, a big thank you to Chainlink Labs for encouraging this course to come to light-and to the many Chainlink Labs team members who helped with various assets!
-
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
-[![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
-
 
